@@ -24,8 +24,18 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+table {
+  width: 100%;
+}
+
+table th {
+  background-color: rgb(36, 36, 36);
+  color: #ffffff;
+}
+
+th, td {
+  width: 25%;
+  background: #eee;
 }
 
 @keyframes App-logo-spin {
